@@ -1,6 +1,6 @@
 # 🎮 ChepasLand – FanGame Pokémon (3ª Gen Style)
 
-![Banner]([https://via.placeholder.com/1200x300.png?text=CHEPASLAND+FANGAME](https://i.pinimg.com/736x/94/eb/44/94eb44867422e6d64bb383cb2bfd080e.jpg))
+![Banner](https://i.pinimg.com/736x/94/eb/44/94eb44867422e6d64bb383cb2bfd080e.jpg)
 
 > Un proyecto educativo y humorístico donde los Pokémon tienen la cara de tus compañeros de clase.
 
