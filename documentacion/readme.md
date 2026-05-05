@@ -50,11 +50,6 @@ Selecciona la carpeta del proyecto y navega cómodamente por los archivos.
 
 ---
 
-## 📌 Nota
-
-La documentación se irá ampliando a medida que avance el desarrollo del juego.  
-Si quieres contribuir, revisa la sección de **Issues** o abre un **Pull Request**.
-
 ---
 
 ## ⭐ Apoya el Proyecto
